@@ -8,7 +8,7 @@
   -  CPU: i7-12700K
   -  RAM: 32GB ddr4
   -  GPU: GeForce RTX3090 (24GB gddr6x)
-  -  Matlab版本: 2023b
+  -  Matlab Version: 2023b
 
 ## Code Usage (General Environment)
 
